@@ -1,2 +1,2 @@
 # web-project
-my website: https://zjxi04.github.io/web-project/
+link: https://miles-xi.github.io/web-project/
